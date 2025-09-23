@@ -1,23 +1,11 @@
 
 
-<div align="center">
-  <div style="background-color: #007acc; color: white; padding: 25px; border-radius: 12px; border: 2px solid #005a99; margin: 20px 0; font-size: 16px; font-weight: 500; line-height: 1.5; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 600px;">
-    <p style="margin: 0 0 15px 0; font-size: 18px; font-weight: bold;">
-      ⚠️ <strong>Important Update:</strong> I'm no longer maintaining this extension—it may stop working at any time!
-    </p>
-    <p style="margin: 0 0 15px 0; font-weight: normal;">
-      I've built a new app that shows the same data with extra benefits:
-    </p>
-    <ul style="margin: 10px 0; padding-left: 20px; font-weight: normal;">
-      <li>Modern UI that works seamlessly on mobile and desktop</li>
-      <li>Smart insights to analyze earnings performance patterns</li>
-      <li>Actively developed—more features and data coming soon!</li>
-    </ul>
-    <p style="margin: 15px 0 0 0; font-weight: bold;">
-      Check it out: <a href="https://earningspike.com" style="color: #ffd700; text-decoration: none; border-bottom: 1px solid #ffd700;">https://earningspike.com</a>—log in and try it free!
-    </p>
-  </div>
-</div>
+> [!NOTE]
+> **Project Status Update:** This extension is no longer actively maintained and may become non-functional.
+>
+> **New Alternative Available:** I've created [EarningsSpike](https://earningspike.com) with enhanced features including mobile-responsive design, performance analytics, and active development. Free to try.
+
+---
 
 
 <h1 align="center">Corporate Earnings</h1>
